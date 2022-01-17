@@ -39,7 +39,7 @@ func main() {
 		password := goten.New(length)
 
 		// Print the password
-		fmt.Println("Here is your password:")
+		fmt.Println("Here is your token/password:")
 		fmt.Println(password)
 
 		// Exit
