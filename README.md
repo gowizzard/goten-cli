@@ -1,5 +1,7 @@
 # goten-cli
 
+[![GitHub go.mod Go version of a Go module](https://img.shields.io/github/go-mod/go-version/gowizzard/goten-cli.svg)](https://golang.org/) [![Go](https://github.com/gowizzard/goten-cli/actions/workflows/go.yml/badge.svg)](https://github.com/gowizzard/goten-cli/actions/workflows/go.yml) [![Go Report Card](https://goreportcard.com/badge/github.com/gowizzard/goten-cli)](https://goreportcard.com/report/github.com/gowizzard/goten-cli)
+
 A small CLI tool. With which you can generate passwords or tokens.
 
 ## Install
