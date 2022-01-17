@@ -4,7 +4,7 @@ A small CLI tool. With which you can generate passwords or tokens.
 
 ## Install
 
-In order to use this tool, you must first install it. This is done as follows:
+In order to use this tool, you must first install it. Before you start with this installation, check with `go version` if Go is already installed on your system. If you do not get a version number back, then you must first [install Go](https://go.dev/doc/install). This is done as follows:
 
 1) You download this repository.
 2) Now, using the terminal, change to the directory where you downloaded the repository. Here is an example: `cd goten-cli/`.
